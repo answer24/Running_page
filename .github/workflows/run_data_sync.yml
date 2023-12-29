@@ -25,7 +25,7 @@ env:
   ATHLETE: Barry Wu
   TITLE: Barrywu Running
   MIN_GRID_DISTANCE: 1 # change min distance here
-  TITLE_GRID: Over 10km Runs # also here
+  TITLE_GRID: Over 5km Runs # also here
   GITHUB_NAME: BarryWu # change to yours
   GITHUB_EMAIL: Barrywuchina@gmail.com # change to yours
 
